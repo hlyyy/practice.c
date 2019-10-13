@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 int min1(int a,int b)
 {    
 	int min=a;
