@@ -1,8 +1,9 @@
 #include<stdio.h>
 int min1(int a,int b)
-{    int min=a;
+{    
+	int min=a;
 	if (b<min)
-	min=b;
+		min=b;
 	return min;
 }
 	
